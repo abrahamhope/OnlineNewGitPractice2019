@@ -1,2 +1,5 @@
 black
 pink
+mor
+sari
+yesil
