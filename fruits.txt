@@ -2,4 +2,8 @@ orange
 mango
 dragon fruit
 kiwi
+elma
+armut
+misir
+
 portakal
